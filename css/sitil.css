@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-family: 'Oxygen', sans-serif;}
+
+.navbar-nav{position:relative; right:60px; font-weight:bold;}
+
+.sliderresim{height:550px; margin-top:16%; filter: blur(2px);}
+
+.text-center{margin-left:60px; font-weight:bold; color:#6F6F6F;}
+
+.metin{position:relative; top:-180px; font-weight:bold; }
+
+.carousel{position:relative; top:-170px; font-weight:bold; color:#A5ACB2;}
+
+.buton{position:relative; top:-160px;}
+
+.baslik{position:relative; bottom:45px; margin-left:65px; font-weight:bold;}
+
+#orta{height:300px;}
+
+.kutu{width:200px; margin-left:8%; height:150px; float:left;}
+
+.kutu i{font-size:50px; color:#000; margin-left:70px;}
+
+.kutu p{text-align:center;}
+
+hr{width:80%; margin:auto;}
+
+.sil{clear:both;}
+
+
+
+.col{width:330px; margin:auto;}
+
+.card-img-top{width:300px; margin:auto;}
+
+span{color:#858585; font-size:14px;}
+
+.tırnakişarati{font-size:40px;color:#DCDCDC; margin-left:50%;}
+
+.igri{ margin-top:20px; height:100px; text-align:justify; background:#F2F2F2;}
+
+i{color:#6A6A00;}
